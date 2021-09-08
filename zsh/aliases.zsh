@@ -1,1 +1,0 @@
-/home/geanderson/.zsh/aliases.zsh
